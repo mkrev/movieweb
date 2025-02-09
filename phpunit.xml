@@ -18,6 +18,7 @@
         </include>
         <exclude>
             <directory>app/UserInterface/Api/Documentation</directory>
+            <directory>app/UserInterface/*/Routes</directory>
         </exclude>
     </source>
     <php>
